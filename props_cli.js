@@ -11,7 +11,7 @@ let parser = new ArgParser({
   version: pkg.version,
   description: pkg.description,
   allowAbbrev: false,
-  epilog: 'Cover your a$$. For justice.'
+  epilog: '^_^ Cover Your A$$.'
 })
 
 //register boolean type
