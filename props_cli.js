@@ -10,7 +10,8 @@ const ArgParser = require('argparse').ArgumentParser
 let parser = new ArgParser({
   version: pkg.version,
   description: pkg.description,
-  allowAbbrev: false
+  allowAbbrev: false,
+  epilog: '(c)2017 develephant http://develephant.com'
 })
 
 //register boolean type
