@@ -54,6 +54,8 @@ cya -h
 
 _[Licenses have been approved by the OSI](https://opensource.org/licenses/alphabetical)_
 
+^_^
+
 ---
 
 #### `cya` &Star; &copy; 2017 develephant &Star; MIT license
