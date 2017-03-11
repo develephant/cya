@@ -50,4 +50,4 @@ cya -h
 
 ---
 
-#### `cya` | &copy;2017 develephant | MIT license
+#### `cya` &Star; &copy;2017 develephant &Star; MIT license
