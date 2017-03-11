@@ -25,6 +25,9 @@
   "bin": {
     "cya": "index.js"
   },
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "bugs": {
     "url": "https://github.com/develephant/develephant-cya/issues"
   },
