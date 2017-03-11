@@ -4,14 +4,16 @@
 const paths = require('./paths')
 const pkg = require(paths.pkg_json_path)
 
-const cya_version = require(paths.cya_json_path).version
+const cya_pkg_json = require(paths.cya_json_path)
+const cya_version = cya_pkg_json.version
+const cya_description = cya_pkg_json.description
 
 const ArgParser = require('argparse').ArgumentParser
 
 //spark up the parser
 let parser = new ArgParser({
   version: cya_version,
-  description: pkg.description,
+  description: cya_description,
   allowAbbrev: false,
   epilog: '(c)2017 develephant http://develephant.com'
 })
