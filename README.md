@@ -32,6 +32,16 @@ Also generate a `README.md` stub:
 cya -r
 ```
 
+## Typical Workflow
+
+```
+//create your package.json
+npm init
+
+//generate a license and readme
+cya -r
+```
+
 ## Overrides/Help
 
 ```
