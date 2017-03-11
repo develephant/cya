@@ -21,7 +21,7 @@ module.exports = function genLicense(license_keys) {
         } else {
 
           //replace tags 
-          let copyright = `(c) ${license_keys.year} ${license_keys.author}`
+          let copyright = `&copy; ${license_keys.year} ${license_keys.author}`
 
           data = data
             .replace(/<COPYRIGHT>/g, copyright)
