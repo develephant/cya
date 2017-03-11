@@ -1,6 +1,6 @@
 {
   "name": "@develephant/cya",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pretty markdown license generation from your package.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
