@@ -26,7 +26,7 @@ Generate a "pretty" markdown `LICENSE.md` file based on keys from the root __pac
 cya
 ```
 
-Also generate a `README.md` stub:
+Or, generate the `LICENSE.md` and a `README.md` file stub:
 
 ```js
 cya -r
