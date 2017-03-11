@@ -62,7 +62,7 @@ cya -h
 |`MPL-2.0`|Mozilla Public License 2.0|
 |`Zlib`|zlib/libpng license|
 
-_[Licenses have been approved by the OSI](https://opensource.org/licenses/alphabetical)_
+_[https://opensource.org/licenses/alphabetical](https://opensource.org/licenses/alphabetical)_
 
 ^_^
 
