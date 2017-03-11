@@ -4,7 +4,7 @@
 const path = require('path')
 const work_dir =  path.resolve()
 
-//Swoosh...
+// ^_^ Swoosh...
 module.exports = {
   license_out:    path.join(work_dir, 'LICENSE.md'),
   license_tpls:   path.join(__dirname, 'tpl', 'licenses'),
