@@ -1,0 +1,37 @@
+{
+  "name": "@develephant/cya",
+  "version": "0.1.0",
+  "description": "Pretty markdown license generation from your package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/develephant-cya.git"
+  },
+  "keywords": [
+    "license",
+    "auto-generate",
+    "apache",
+    "mit",
+    "gpl",
+    "markdown",
+    "generator",
+    "scaffold"
+  ],
+  "author": "develephant <code@develephant.com> (http://www.develephant.com/)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "cya": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/develephant/develephant-cya/issues"
+  },
+  "homepage": "https://github.com/develephant/develephant-cya#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "colors": "^1.1.2",
+    "fortune-cookie": "0.0.1"
+  }
+}
