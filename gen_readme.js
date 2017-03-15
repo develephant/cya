@@ -8,7 +8,7 @@ const pkg = require(paths.pkg_json_path)
 
 module.exports = function genReadme(license_keys) {
 
-  let usage_help, code_type
+  let usage_help, code_type, install_cmd
 
   if (pkg.preferGlobal === true) {
     install_cmd = `npm i -g ${pkg.name}`
